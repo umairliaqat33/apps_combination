@@ -1,15 +1,15 @@
 import 'package:apps_combination/BMI_Calculator/BMImain.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'IconContent.dart';
+import '../IconContent.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'Calculator/Calculatormain.dart';
-import 'Poor/Poormain.dart';
-import 'Dice/Dicemain.dart';
-import 'Quizler2/Quizlermain.dart';
-import 'Xylophone/Pianomain.dart';
-import 'Info_card/Cardmain.dart';
-import 'Rich/Richmain.dart';
+import '../Calculator/Calculatormain.dart';
+import '../Poor/Poormain.dart';
+import '../Dice/Dicemain.dart';
+import '../Quizler2/Quizlermain.dart';
+import '../Xylophone/Pianomain.dart';
+import '../Info_card/Cardmain.dart';
+import '../Rich/Richmain.dart';
 
 void main() {
   runApp(MyApp());
