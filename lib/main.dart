@@ -124,6 +124,18 @@ class _InterfaceResponsiveState extends State<InterfaceResponsive> {
                           BMICalculator(),
                           PianoApp(),
                         ),
+                        IconContent(
+                          "Check Currency rates",
+                          "Know Weather",
+                          "Crypto App",
+                          "Weather App",
+                          FontAwesomeIcons.bitcoin,
+                          FontAwesomeIcons.cloud,
+                          het / 1.9,
+                          wdt,
+                          WeatherMyApp(),
+                          btcMyApp(),
+                        ),
 
 
                       ],
