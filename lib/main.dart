@@ -1,4 +1,6 @@
 import 'package:apps_combination/BMI_Calculator/BMImain.dart';
+import 'package:apps_combination/Weather/weathermain.dart';
+import 'package:apps_combination/Bitcoin/bitcoinmain.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'IconContent.dart';
@@ -61,7 +63,7 @@ class _InterfaceResponsiveState extends State<InterfaceResponsive> {
                   width: 800,
                   height: het / 4,
                   child: Image.asset(
-                    'images/weatherapp.png',
+                    'images/banner.png',
                     height: 150,
                     fit: BoxFit.fill,
                     width: 900,

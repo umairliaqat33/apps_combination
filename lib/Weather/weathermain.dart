@@ -61,7 +61,7 @@ class _InterfaceResponsiveState extends State<InterfaceResponsive> {
                   width: 800,
                   height: het / 4,
                   child: Image.asset(
-                    'images/banner.png',
+                    'images/weatherapp.png',
                     height: 150,
                     fit: BoxFit.fill,
                     width: 900,

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-// import 'Weathermain.dart';
+// import 'weathermain.dart';
 
 class IconContent extends StatelessWidget {
   IconContent(this.tex2, this.tex1, this.mess2, this.mess1, this.ic2, this.ic1,this.h,this.w,this.page1,this.page2);
